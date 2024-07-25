@@ -1,5 +1,8 @@
 # Machine Learning From Scratch
 
+## My Modifications to the Original Repo
+My plan is to gradually explore the code inside this repository and create jupyter notebook versions of the code with explanations.
+
 ## About
 Python implementations of some of the fundamental Machine Learning models and algorithms from scratch.
 
